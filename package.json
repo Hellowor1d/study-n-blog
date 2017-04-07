@@ -29,5 +29,6 @@
     "pug": "^2.0.0-beta11",
     "sha1": "^1.1.1",
     "winston": "^2.3.1"
-  }
+  },
+  "devDependencies": {}
 }
